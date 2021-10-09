@@ -1,13 +1,8 @@
-#main-text {
-    font-weight: bolder;
-    font-size: large;
-    align-items: center;
-    justify-content: center;
-}
-
-#sub-text {
-    font-weight: bold;
-    font-size: medium;
+.container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
     align-items: center;
     justify-content: center;
 }
