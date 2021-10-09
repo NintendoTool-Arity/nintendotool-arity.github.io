@@ -1,18 +1,4 @@
-.container {
-    height: 100%;
-    width: 100%;
-    display: flex;
-    position: fixed;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
-    flex: 1;
-}
-
-.main-text {
-    font-weight: bolder;
-}
-
-.sub-text {
-    font-weight: bold;
+h1, h2 {
+    font-family: "Gill Sans Extrabold", sans-serif;
+    color: red;
 }
