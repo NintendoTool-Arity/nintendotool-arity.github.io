@@ -6,3 +6,11 @@
     align-items: center;
     justify-content: center;
 }
+
+.main-text {
+    font-weight: bolder;
+}
+
+.sub-text {
+    font-weight: bold;
+}
