@@ -1,0 +1,13 @@
+#main-text {
+    font-weight: bolder;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+}
+
+#sub-text {
+    font-weight: bold;
+    font-size: medium;
+    align-items: center;
+    justify-content: center;
+}
