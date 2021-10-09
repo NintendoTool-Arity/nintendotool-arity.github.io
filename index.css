@@ -5,6 +5,7 @@
     position: fixed;
     align-items: center;
     justify-content: center;
+    flex-direction: row;
 }
 
 .main-text {
