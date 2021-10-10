@@ -12,3 +12,4 @@ A website for NT-Arity
 - Twitter embeds
 - A new domain
 - Navigation Bar
+- Dark / Light Mode
