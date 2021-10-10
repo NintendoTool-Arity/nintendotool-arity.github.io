@@ -11,3 +11,4 @@ A website for NT-Arity
 - Add in a blog
 - Twitter embeds
 - A new domain
+- Navigation Bar
