@@ -1,6 +1,18 @@
-h1, h2 {
+.text {
     font-family: sans-serif;
-    text-align: center;
-    justify-content: center;
-    padding: 50%;
+    font-size: xxx-large
+}
+
+.container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
