@@ -18,3 +18,7 @@ html, body {
     padding: 0;
     color: #d1d1d1;
 }
+
+html {
+    scroll-behavior: smooth;
+}

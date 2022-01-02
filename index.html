@@ -14,18 +14,25 @@
         <!-- Gets data from index.css -->
         <link href="styles/index.css" rel="stylesheet" />
         <link href="styles/nav-bar.css" rel="stylesheet" />
+        <link href="styles/home-buttons.css" rel="stylesheet" />
         <!-- Google Fonts Information -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap" rel="stylesheet">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     </head>
     <body>
         <!-- Navigation Bar -->
-        <div class="topnav">
-            <a class="active" href="https://www.google.com/">Home</a>
-            <a href="https://www.google.com/">News</a>
-            <a href="https://www.google.com/">Contact</a>
-            <a href="https://www.google.com/">About</a>
+        <div class="topnav" id="myTopnav">
+            <a href="/home" class="active text">Home</a>
+            <a href="/news" class="text">News</a>
+            <a href="/contact" class="text">Contact</a>
+            <a href="/about" class="text">About</a>
+            <a href="javascript:void(0);" class="icon" onClick="myFunction()">
+                <i class="fa fa-bars"></i>
+            </a>
         </div>
+        <!-- Divider -->
+        <h1 style="margin: 20px; margin-top: 30px;" class="text">Welcome to my website</h1>
     </body>
 </html>
