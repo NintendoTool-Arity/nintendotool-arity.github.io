@@ -1,0 +1,24 @@
+html {
+  background-color: rgb(42, 42, 42);
+  color: rgb(207, 207, 207);
+  font-family: 'Padauk', sans-serif;
+}
+
+body {
+  padding: 5% 15% 5% 15%;
+}
+
+a:link {
+  color:rgb(150, 192, 234);
+  background-color: transparent;
+}
+
+a:hover {
+  color: rgb(112, 183, 255);
+  background-color: transparent;
+}
+
+a:hover {
+  color: rgb(66, 156, 245);
+  background-color: transparent;
+}
